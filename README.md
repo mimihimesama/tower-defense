@@ -45,6 +45,12 @@
 
 ![erd4](https://github.com/rladmswlr/towerdefense/assets/106059492/8f5ef8ec-9f88-4216-b8cb-28ae44aaa720)
 
+## 👀 프로젝트 미리보기
+
+![스크린샷 2024-07-19 144339](https://github.com/user-attachments/assets/ad5de9e8-d994-4c48-84ef-1454b1b443a3)
+
+### 📹 [시연영상](https://youtu.be/7kj1SPD2lQY)
+
 ## ⚽ 프로젝트 주요 기능
 
 1. **회원가입 / 로그인 기능 (REST API로 통신)**
